@@ -14,7 +14,7 @@
 - 📱 Experienced with **Kotlin-based Android Development**
 - 🎮 Game Design nerd | Former **GDSC Game Dev Lead**
 - 🧠 Project-driven learner with a caffeine addiction and mild sleep guilt
-- TechGeek and Learneing Enthusiast
+- 💻 TechGeek and Learning Enthusiast
 
 ---
 
