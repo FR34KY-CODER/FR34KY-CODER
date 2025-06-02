@@ -1,24 +1,26 @@
 <h1 align="center">Hi there, I'm FR34KY-CODER 👋</h1>
-<h3 align="center">A Data Science & Development enthusiast who dabbles in Android & Game Dev</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fr34k0&label=Profile%20views&color=0e75b6&style=flat" alt="fr34k0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=I+am+a+Developer;I+am+a+Data+Scientist;I+am+a+Game+Dev+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fr34k0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Final-year Mechatronics student at **LNMIIT**
-- 🔬 Keen on **Data Science**, **Machine Learning**, and **NLP**
-- 📱 Experienced with **Kotlin-based Android Development**
-- 🎮 Game Design nerd | Former **GDSC Game Dev Lead**
-- 🧠 Project-driven learner with a caffeine addiction and mild sleep guilt
-- 💻 TechGeek and Learning Enthusiast
+🎓 Final-year Mechatronics undergraduate at **LNMIIT**  
+🔬 Passionate about **Data Science**, **Machine Learning**, and **Natural Language Processing**  
+📱 Experienced in **Kotlin-based Android Development**  
+🎮 Game Design enthusiast | Former **GDSC Game Dev Lead**  
+💻 Project-driven learner with a bias toward action and exploration  
 
 ---
 
-### 🧠 Tech I Work With
+## 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,25 +34,25 @@
 
 ---
 
-### 🛠️ Highlight Projects
+## 🧠 Highlight Projects
 
-#### ⚖️ Legal Case Classifier & Summariser  
-A deep NLP system using the **T5 Transformer** architecture to classify legal case documents and generate concise summaries.
+### ⚖️ Legal Case Classifier & Summariser  
+A deep NLP system utilizing the **T5 Transformer** to classify legal case documents and generate concise, accurate summaries.
 
-#### 📱 Android-Based Applications  
-Built multiple real-world Kotlin apps with **Jetpack Compose**, **Firebase**, and modern **MVVM** architecture. Focused on smooth UI/UX and real-time integration.
+### 📱 Kotlin-Based Android Apps  
+Designed multiple real-world applications using **Jetpack Compose**, **MVVM architecture**, and **Firebase**. Focused on clean UI/UX and real-time interactivity.
 
-#### 🕹️ 2D Game Designs & Dev  
-Led **Game Dev at GDSC LNMIIT**, mentoring juniors and working on quirky 2D games using **Godot Engine** and **Unity**, focusing on art + logic sync.
+### 🎮 2D Game Development  
+Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building interactive 2D games with **Godot** and **Unity**, combining narrative, design, and physics.
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Connect with Me
 
-- 📧 [Email](mailto:ojasvigoyal275@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ojasvi-goyal-85b82525b)
+- 📧 [ojasvigoyal275@gmail.com](mailto:ojasvigoyal275@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ojasvi-goyal-85b82525b)  
 - 🧑‍💻 [GitHub](https://github.com/FR34KY-CODER)
 
 ---
 
-> “If it feels like a sunrise, I probably made it.”
+> “If it feels like a sunrise, I probably made it.”  
