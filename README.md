@@ -48,8 +48,8 @@ Led **Game Dev at GDSC LNMIIT**, mentoring juniors and working on quirky 2D game
 ### 🌐 Let's Connect
 
 - 📧 [Email](mailto:ojasvigoyal275@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ojasvigoyal](https://www.linkedin.com/in/ojasvi-goyal-85b82525b/))
-- 🧑‍💻 [GitHub]([https://github.com/](https://github.com/FR34KY-CODER))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ojasvi-goyal-85b82525b)
+- 🧑‍💻 [GitHub](https://github.com/FR34KY-CODER)
 
 ---
 
