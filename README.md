@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm FR34Ky-CODER 👋</h1>
+<h1 align="center">Hi there, I'm FR34KY-CODER 👋</h1>
 <h3 align="center">A Data Science & Development enthusiast who dabbles in Android & Game Dev</h3>
 
 <p align="center">
