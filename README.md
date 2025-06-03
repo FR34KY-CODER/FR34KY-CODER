@@ -51,9 +51,9 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 ## 🌐 Connect with Me
 
-<p><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png">[Gmail](mailto:ojasvigoyal275@gmail.com) </p>
-<p><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="GIF showcase"> [LinkedIn](https://www.linkedin.com/in/ojasvi-goyal-85b82525b)</p>
-<p><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GIF showcase"> [GitHub](https://github.com/FR34KY-CODER)</p>
+<p><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" hieght=50 widht = 50>[Gmail](mailto:ojasvigoyal275@gmail.com) </p>
+<p><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="GIF showcase" hieght=50 widht = 50> [LinkedIn](https://www.linkedin.com/in/ojasvi-goyal-85b82525b)</p>
+<p><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GIF showcase" hieght=50 widht = 50> [GitHub](https://github.com/FR34KY-CODER)</p>
 
 ---
 
