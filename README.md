@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GIF showcase" width="600"/> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GIF showcase" width=wrap_content/> </p>
 <h1 align="center">Hi there, I'm FR34KY-CODER 👋</h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🧑‍🎓 I'm Ojasvi Goyal from Kota, Rajasthan — a Mechatronics undergrad at **LNMIIT** and alumnus of **DAV Public School, Kota**, driven by curiosity.
+🧑‍🎓 I'm Ojasvi Goyal from Kota — a Mechatronics undergrad at **LNMIIT** and alumnus of **DAV Public School, Kota**, driven by curiosity.
 🔬 Passionate about **Data Science**, **Machine Learning**, and **Natural Language Processing**  
 📱 Experienced in **Kotlin-based Android Development**  
 🎮 Game Design enthusiast | Former **GDSC Game Dev Lead**  
