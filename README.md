@@ -37,13 +37,13 @@
 
 ## 🧠 Highlight Projects
 
-### ⚖️ Legal Case Classifier & Summariser  
+<a href="https://github.com/FR34KY-CODER/Legal-Case-Classification-and-Summarization">### ⚖️ Legal Case Classifier & Summariser  </a>
 A deep NLP system utilizing the **T5 Transformer** to classify legal case documents and generate concise, accurate summaries.
 
-### 📱 Kotlin-Based Android Apps  
+<a href="https://github.com/FR34KY-CODER/KotlinFirebase-Social-Media-Application">### 📱 Kotlin-Based Android Apps  </a>
 Designed multiple real-world applications using **Jetpack Compose**, **MVVM architecture**, and **Firebase**. Focused on clean UI/UX and real-time interactivity.
 
-### 🎮 2D Game Development  
+<a href="https://github.com/FR34KY-CODER/RoadRash-Game-Project">### 🎮 2D Game Development  </a>
 Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building interactive 2D games with **Godot** and **Unity**, combining narrative, design, and physics.
 
 ---
