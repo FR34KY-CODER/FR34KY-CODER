@@ -64,8 +64,8 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
          alt="GitHub" height="50" />
   </a>
 </p>
----
 
+---
 > “If it feels like a sunrise, I probably made it.”
 ---
 <p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5NDU0NjIsIm5iZiI6MTc0ODk0NTE2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDEwMDYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMTg3NzdkZmQ1NDBhMjJiZjYwYzc0NDBlZDE1MDhhMDYwZjJmYzk2OTBmMDgwNmEwNjQ3ZmI0OTJlN2ZkNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cj2xlynyjCKP07QOPrmq97K2_dQdD9r5Z8EjtHuku_k" width=wrap_content/> </p>
