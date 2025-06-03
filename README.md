@@ -23,13 +23,12 @@
 
 ## 🧰 Tech Stack
 
-<p align="centre"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GIF showcase" width=60 hieght=60/> </p>
-
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/T5-Model-FFB6C1?style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GIF showcase" width=100 hieght=150 align=right>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -52,10 +51,13 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 ## 🌐 Connect with Me
 
-- 📧 [ojasvigoyal275@gmail.com](mailto:ojasvigoyal275@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ojasvi-goyal-85b82525b)  
-- 🧑‍💻 [GitHub](https://github.com/FR34KY-CODER)
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png">📧 [ojasvigoyal275@gmail.com](mailto:ojasvigoyal275@gmail.com)  
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="GIF showcase> [LinkedIn](https://www.linkedin.com/in/ojasvi-goyal-85b82525b)  
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GIF showcase> [GitHub](https://github.com/FR34KY-CODER)
 
 ---
 
-> “If it feels like a sunrise, I probably made it.”  
+> “If it feels like a sunrise, I probably made it.”
+---
+<p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5NDU0NjIsIm5iZiI6MTc0ODk0NTE2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDEwMDYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMTg3NzdkZmQ1NDBhMjJiZjYwYzc0NDBlZDE1MDhhMDYwZjJmYzk2OTBmMDgwNmEwNjQ3ZmI0OTJlN2ZkNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cj2xlynyjCKP07QOPrmq97K2_dQdD9r5Z8EjtHuku_k" width=wrap_content/> </p>
+
