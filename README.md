@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 Final-year Mechatronics undergraduate at **LNMIIT**  
+🧑‍🎓 I'm Ojasvi Goyal from Kota, Rajasthan — a Mechatronics undergrad at **LNMIIT** and alumnus of **DAV Public School, Kota**, driven by curiosity and code.  
 🔬 Passionate about **Data Science**, **Machine Learning**, and **Natural Language Processing**  
 📱 Experienced in **Kotlin-based Android Development**  
 🎮 Game Design enthusiast | Former **GDSC Game Dev Lead**  
