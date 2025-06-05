@@ -35,7 +35,7 @@
 
 ---
 
-## 🧠 Highlight Projects
+## � Highlight Projects
 
 ⚖️ <a href="https://github.com/FR34KY-CODER/Legal-Case-Classification-and-Summarization">Legal Case Classifier & Summariser  </a>
 A deep NLP system utilizing the **T5 Transformer** to classify legal case documents and generate concise, accurate summaries.
@@ -50,8 +50,14 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 ## 📜 Statistics
 
-<p>![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FR34KY-CODER&show_icons=true&theme=nightowl)
-![Your stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FR34KY-CODER&theme=nightowl)</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FR34KY-CODER&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FR34KY-CODER&layout=compact&theme=nightowl" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FR34KY-CODER&theme=nightowl" />
+</p>
 
 ---
 ## 🌐 Connect with Me
@@ -72,7 +78,6 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 </p>
 
 ---
-> “If it feels like a sunrise, I probably made it.”
+> "If it feels like a sunrise, I probably made it."
 ---
 <p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5NDU0NjIsIm5iZiI6MTc0ODk0NTE2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDEwMDYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMTg3NzdkZmQ1NDBhMjJiZjYwYzc0NDBlZDE1MDhhMDYwZjJmYzk2OTBmMDgwNmEwNjQ3ZmI0OTJlN2ZkNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cj2xlynyjCKP07QOPrmq97K2_dQdD9r5Z8EjtHuku_k" width=wrap_content/> </p>
-
