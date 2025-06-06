@@ -75,7 +75,7 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
     <td align="center" width="33%">
       <a href="https://github.com/FR34KY-CODER">
         <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
-        <sub><b>GitHub</b></sub>
+        <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
     </td>
   </tr>
