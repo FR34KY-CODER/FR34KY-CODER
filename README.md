@@ -60,21 +60,21 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 <table width="100%" align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="mailto:ojasvigoyal275@gmail.com">
-        <img src="https://img.icons8.com/?size=80&id=17949&format=png" height="50" alt="Gmail"/><br/>
+        <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
         <sub><b>Gmail</b></sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b">
-        <img src="https://img.icons8.com/?size=80&id=8808&format=png" height="50" alt="LinkedIn"/><br/>
+        <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/FR34KY-CODER">
-        <img src="https://img.icons8.com/?size=80&id=62856&format=png" height="50" alt="GitHub"/><br/>
+        <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
         <sub><b>GitHub</b></sub>
       </a>
     </td>
