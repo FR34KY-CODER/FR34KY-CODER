@@ -58,24 +58,32 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 ---
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:ojasvigoyal275@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Gmail" height="40" />
-    <br><sub>Gmail</sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" />
-    <br><sub>LinkedIn</sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/FR34KY-CODER">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" height="40" />
-    <br><sub>GitHub</sub>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:ojasvigoyal275@gmail.com">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="40" alt="Gmail" /><br/>
+        <sub>Gmail</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="40" alt="LinkedIn" /><br/>
+        <sub>LinkedIn</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FR34KY-CODER">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="40" alt="GitHub" /><br/>
+        <sub>GitHub</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
 <p align = center> > "If it feels like a sunrise, I probably made it."</p>
+
 ---
 <p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5NDU0NjIsIm5iZiI6MTc0ODk0NTE2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDEwMDYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMTg3NzdkZmQ1NDBhMjJiZjYwYzc0NDBlZDE1MDhhMDYwZjJmYzk2OTBmMDgwNmEwNjQ3ZmI0OTJlN2ZkNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cj2xlynyjCKP07QOPrmq97K2_dQdD9r5Z8EjtHuku_k" width=wrap_content/> </p>
