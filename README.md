@@ -51,8 +51,8 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 ## 📜 Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR34KY-CODER&theme=nightowl" width=48% />
-  <img src="https://camo.githubusercontent.com/8fb7c0644496eee498617b90af977eb2f26a9a54187d9fa2f6c007e02cf7dc2f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6f4f78535849354432637663366b595376772f67697068792d646f776e73697a65642d6c617267652e676966" width=48% height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR34KY-CODER&theme=nightowl" />
+  <img src="https://camo.githubusercontent.com/8fb7c0644496eee498617b90af977eb2f26a9a54187d9fa2f6c007e02cf7dc2f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6f4f78535849354432637663366b595376772f67697068792d646f776e73697a65642d6c617267652e676966" width="200px" height="200px"/>
 </p>
 
 ---
@@ -60,20 +60,22 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 <p align="center">
   <a href="mailto:ojasvigoyal275@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"
-         alt="Gmail" />
-  </a>&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Gmail" height="40" />
+    <br><sub>Gmail</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-         alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" />
+    <br><sub>LinkedIn</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/FR34KY-CODER">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
-         alt="GitHub"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" height="40" />
+    <br><sub>GitHub</sub>
   </a>
 </p>
 
 ---
-> "If it feels like a sunrise, I probably made it."
+<p align = center> > "If it feels like a sunrise, I probably made it."</p>
 ---
 <p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5NDU0NjIsIm5iZiI6MTc0ODk0NTE2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAzVDEwMDYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzMTg3NzdkZmQ1NDBhMjJiZjYwYzc0NDBlZDE1MDhhMDYwZjJmYzk2OTBmMDgwNmEwNjQ3ZmI0OTJlN2ZkNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cj2xlynyjCKP07QOPrmq97K2_dQdD9r5Z8EjtHuku_k" width=wrap_content/> </p>
