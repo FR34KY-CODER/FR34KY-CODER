@@ -52,6 +52,7 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR34KY-CODER&theme=nightowl" />
+  <img src="https://camo.githubusercontent.com/8fb7c0644496eee498617b90af977eb2f26a9a54187d9fa2f6c007e02cf7dc2f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6f4f78535849354432637663366b595376772f67697068792d646f776e73697a65642d6c617267652e676966">
 </p>
 
 ---
@@ -61,14 +62,17 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
   <a href="mailto:ojasvigoyal275@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"
          alt="Gmail" height="50" />
+    Gmail
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
          alt="LinkedIn" height="50" />
+    LinkedIn
   </a>&nbsp;&nbsp;
   <a href="https://github.com/FR34KY-CODER">
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
          alt="GitHub" height="50" />
+    GitHub
   </a>
 </p>
 
