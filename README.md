@@ -63,13 +63,13 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
     <td align="center" width="33%">
       <a href="mailto:ojasvigoyal275@gmail.com">
         <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
-        <sub><b>Gmail</b></sub>
+        <sub><img src="https://img.shields.io/badge/Email-ff4c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b">
         <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
-        <sub><b>LinkedIn</b></sub>
+        <sub><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></sub>
       </a>
     </td>
     <td align="center" width="33%">
