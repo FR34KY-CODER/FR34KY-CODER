@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF showcase" width=wrap_content/> </p>
+<p align="center"> <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" alt="GIF showcase" width=wrap_content/> </p>
 <h1 align="center">Hi there, I'm FR34KY-CODER 👋</h1>
 
 <p align="center">
@@ -52,7 +52,7 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR34KY-CODER&theme=nightowl" />
-  <img src="https://camo.githubusercontent.com/8fb7c0644496eee498617b90af977eb2f26a9a54187d9fa2f6c007e02cf7dc2f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6f4f78535849354432637663366b595376772f67697068792d646f776e73697a65642d6c617267652e676966" width="200px" height="200px"/>
+  <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686.gif?raw=true" width="200px" height="200px"/>
 </p>
 
 ---
