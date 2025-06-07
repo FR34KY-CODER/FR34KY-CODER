@@ -83,7 +83,9 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 ---
 
-<p align = center> > "If it feels like a sunrise, I probably made it."</p>
+<p align = center> > "Hesitation is Defeat"</p>
+<p align="center"> <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/sekiro-mortal-blade.gif?raw=true" width=wrap_content />
+>"Hesitation is Defeat" </p>
 
 ---
 <p align="center"> <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/sekiro-mortal-blade.gif?raw=true" width=wrap_content /> </p>
