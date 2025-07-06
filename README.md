@@ -96,6 +96,9 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR34KY-CODER&theme=nightowl" />
   <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686.gif?raw=true" width="200px" height="200px" border = 2px solid #000/>
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FR34KY-CODER&theme=midnight-purple&show_icons=true">
+</p>
 
 ---
 ## 🌐 Connect with Me
