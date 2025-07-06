@@ -86,6 +86,8 @@ Designed multiple real-world applications using **Jetpack Compose**, **MVVM arch
 🎮 <a href="https://github.com/FR34KY-CODER/RoadRash-Game-Project">2D Game Development  </a>
 Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building interactive 2D games with **Godot** and **Unity**, combining narrative, design, and physics.
 
+<p align= center><img src ="https://camo.githubusercontent.com/ac444755f650fbaf9bf582931753704ff71f122c1009d849fda5c1345b2b2081/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3030464630302663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d446562756767696e672b7468652b756e6976657273652e2e2e3b436f6d70696c696e672b636f736d69632b636f64652e2e2e3b44656372797074696e672b616c69656e2b7472616e736d697373696f6e732e2e2e3b4c6f6164696e672b6e6578742b616476656e747572652e2e2e"></p>
+
 ---
 
 ## 📜 Statistics
