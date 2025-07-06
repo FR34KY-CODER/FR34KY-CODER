@@ -53,6 +53,7 @@
 ### 🎮 Game Development
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UE%204.1-000000?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 </p>
 
 ### 🌐 Tools & IDEs
