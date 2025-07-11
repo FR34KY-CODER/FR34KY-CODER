@@ -127,7 +127,7 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
     </td>
     <td align="center" width="20%">
       <a href="https://fr34ky-coder.github.io/" target="_blank">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-portfolio-professions-including-engineer-photographer-artist-business-woman-lineal-color-flat-icons.png" height="60" alt="Portfolio"/><br/>
+        <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/FR34K.png?raw=true" height="60" alt="Portfolio"/><br/>
         <sub><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
       </a>
     </td>
