@@ -107,26 +107,39 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="33%">
-      <a href="mailto:ojasvigoyal275@gmail.com">
+    <td align="center" width="20%">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojasvigoyal275@gmail.com" target="_blank">
         <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
         <sub><img src="https://img.shields.io/badge/Email-ff4c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></sub>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b">
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/ojasvi-goyal-85b82525b" target="_blank">
         <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
         <sub><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></sub>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/FR34KY-CODER">
+    <td align="center" width="20%">
+      <a href="https://github.com/FR34KY-CODER" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
         <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
     </td>
+    <td align="center" width="20%">
+      <a href="https://fr34ky-coder.github.io/" target="_blank">
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-portfolio-professions-including-engineer-photographer-artist-business-woman-lineal-color-flat-icons.png" height="60" alt="Portfolio"/><br/>
+        <sub><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://medium.com/@fr34ky-coder" target="_blank">
+        <img src="https://img.icons8.com/color/96/medium-logo.png" height="60" alt="Medium"/><br/>
+        <sub><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></sub>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ---
 
